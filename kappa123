@@ -1,0 +1,7 @@
+import java.util.Scanner;
+public class kappa{
+   public static void main(String[] args){
+
+System.out.println("ok so basically");
+}
+}
